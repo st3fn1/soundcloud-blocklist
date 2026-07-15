@@ -6,7 +6,7 @@ targeting the AdsWizz ad-serving domains SoundCloud uses to inject audio ads bet
 ## Usage
 Add the raw URL to Technitium under **Settings → Block Lists → Block List URLs**:
 
-[](https://raw.githubusercontent.com/st3fn1/soundcloud-blocklist/refs/heads/main/soundcloud-ads.txt)
+[Click here!](https://raw.githubusercontent.com/st3fn1/soundcloud-blocklist/refs/heads/main/soundcloud-ads.txt)
 
 Technitium will pull and apply it automatically, refreshing every 24 hours.
 
