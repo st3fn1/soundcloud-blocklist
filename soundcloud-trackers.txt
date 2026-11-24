@@ -1,0 +1,20 @@
+# SoundCloud Ad Blocklist — v2 (optional: ad tracking & verification)
+# https://github.com/st3fn1/soundcloud-blocklist
+#
+# Ad measurement / verification and analytics services seen alongside
+# SoundCloud ads. Use together with soundcloud-ads.txt for extra privacy.
+# Nothing here is needed for SoundCloud to work.
+
+# --- Ad verification / viewability ---
+moatads.com
+z.moatads.com
+doubleverify.com
+cdn.doubleverify.com
+adsafeprotected.com
+pixel.adsafeprotected.com
+
+# --- Audience measurement ---
+scorecardresearch.com
+sb.scorecardresearch.com
+quantserve.com
+quantcount.com

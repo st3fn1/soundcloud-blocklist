@@ -1,0 +1,24 @@
+# SoundCloud Allowlist — v2
+# https://github.com/st3fn1/soundcloud-blocklist
+#
+# Domains SoundCloud NEEDS to work. Add this as an *Allowed* list so that
+# other large blocklists you use can never break SoundCloud.
+# None of these serve ads.
+
+# Website, apps & API
+soundcloud.com
+api.soundcloud.com
+api-v2.soundcloud.com
+api-auth.soundcloud.com
+secure.soundcloud.com
+w.soundcloud.com
+
+# Audio streaming, artwork & static files
+sndcdn.com
+a-v2.sndcdn.com
+i1.sndcdn.com
+cf-media.sndcdn.com
+cf-hls-media.sndcdn.com
+cf-hls-opus-media.sndcdn.com
+soundcloud.cloud
+media-streaming.soundcloud.cloud
