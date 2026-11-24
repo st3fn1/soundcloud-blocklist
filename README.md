@@ -1,5 +1,6 @@
 # DNS Blocklist — SoundCloud Ads (v2)
 
+[![GitHub stars](https://img.shields.io/github/stars/st3fn1/soundcloud-blocklist?style=flat&logo=github)](https://github.com/st3fn1/soundcloud-blocklist/stargazers)
 ![Validate lists](https://github.com/st3fn1/soundcloud-blocklist/actions/workflows/validate.yml/badge.svg)
 
 Custom DNS lists for [Technitium DNS Server](https://technitium.com/dns/) that remove SoundCloud's
@@ -53,6 +54,18 @@ It shouldn't. The lists are designed to stay safe:
 If something stops working, open Technitium's **Logs → Query Logs**, filter on *Blocked*, then reproduce
 the problem to find the domain. Add it to Technitium's **Allowed** zone, and please
 [open an issue](https://github.com/st3fn1/soundcloud-blocklist/issues) so it can be fixed for everyone.
+
+## Star history
+
+If this list saved you from ads, consider giving it a ⭐. It helps others find it.
+
+<a href="https://star-history.com/#st3fn1/soundcloud-blocklist&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=st3fn1/soundcloud-blocklist&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=st3fn1/soundcloud-blocklist&type=Date" />
+    <img alt="Star history chart" src="https://api.star-history.com/svg?repos=st3fn1/soundcloud-blocklist&type=Date" />
+  </picture>
+</a>
 
 ## Contributing
 
